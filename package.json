@@ -1,0 +1,22 @@
+{
+  "name": "playwrightlearn",
+  "version": "1.0.0",
+  "description": "Repopsitory for learning playwright in Typescript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bokonyisanyi/playwrightlearn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bokonyisanyi/playwrightlearn/issues"
+  },
+  "homepage": "https://github.com/bokonyisanyi/playwrightlearn#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.21"
+  }
+}
